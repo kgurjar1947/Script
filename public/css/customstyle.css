@@ -1,0 +1,212 @@
+.bg-login, .bg-rg {
+    background: #152036;
+}
+.bg-footer{
+    background: #1b2a47;
+}
+footer .text-muted, .pass-sec .text-muted {
+    --bs-text-opacity: 1;
+    color: #fff !important;
+}
+.dark-bg .card {
+    background: #1b2a47;
+}
+.login-form h3, .rg-form h3, .pass-sec h3 {
+    color: #fff;
+}
+.card-body label.form-check-label {
+    color: #fff;
+}
+.wt h5 {
+    color: #fff;
+}
+.db-dark-bg{
+ background: #1b2a47;
+}
+body.des-sec{
+   background: #152036;  
+   color: #fff;
+}
+.profile-dtl img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid #152036;
+    margin-bottom: 10px;
+}
+.profile-sec {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.profile-dtl{
+    text-align: center;
+}
+.inner-box {
+    background: #1b2a47;
+}
+.dt-table {
+    width: 100%;
+}
+.dt-table th, .dt-table td{
+    border-bottom: 1px solid #152036;
+    padding: 20px 5px;
+}
+.del-btn {
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,.12);
+    background: #152036;
+    color: #fff;
+}
+.get-script {
+    font-size: 15px;
+    padding: 4px 10px;
+    font-weight: 400;
+    margin-right: 5px;
+}
+.pl-0 {
+    padding-left: 0;
+}
+.pr-0 {
+    padding-right: 0;
+}
+.db-pagination .pagination>li {
+    display: inline;
+}
+.db-pagination ul.pagination li a {
+    color: #fff;
+    background-color: #152036;
+    border: 1px solid #152036;
+}
+/**********praveen 26/12/22************/
+
+/**********praveen 26/12/22************/
+
+.full-size {
+    overflow-y: hidden;
+    background: rgba(0, 0, 0, 0.65);
+}
+
+.modal-content {
+    background-color: #0e1524;
+    border: 1px solid #0e1524;
+}
+
+.full-size .modal-content {
+    padding: 0.7rem;
+}
+
+.modal-header {
+    border-bottom: 0px solid #dee2e6 !important;
+}
+
+.modal-footer {
+    border-top: 0px solid #dee2e6 !important;
+}
+
+.btn-md-close {
+    background-color: #152036;
+    color: #fff;
+}
+
+.btn-md-close:hover {
+    background-color: #152036cc;
+    color: #fff;
+}
+
+.modal-header .btn-close {
+    color: #fff !important;
+    border: 1px solid #fff;
+    background: url("../img/cross.png") center/1em auto no-repeat !important;
+}
+
+.pagination,
+.dataTable-pagination ul {
+    justify-content: center;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    background: red;
+    cursor: inherit;
+    display: block;
+}
+
+.view {
+    font-size: 15px;
+    padding: 4px 10px;
+    font-weight: 400;
+    margin-right: 5px;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.dt-table thead tr th {
+    min-width: 70px;
+}
+
+.last-btn button {
+    max-width: 125px;
+    min-width: 90px;
+}
+
+.profile-img img {
+    width: 100%;
+    max-width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}
+
+.profile-form .form-floating label {
+    color: #1b2a47;
+}
+
+
+
+
+.swal2-popup {
+    background: #10192b !important;
+    color: #fff !important;
+  
+}
+
+.swal2-container.swal2-backdrop-show, .swal2-container.swal2-noanimation {
+    background: rgba(0,0,0,.8) !important;
+}
+.swal2-icon.swal2-warning {
+border-color: rgb(255, 255, 255) !important;
+color: #fff !important;
+}
+
+.swal2-styled.swal2-confirm {
+background-color: #0f5132 !important;
+color: #fff !important;
+}
+
+.swal2-styled.swal2-cancel {
+background-color: #0d1320 !important;
+color: #fff !important;
+}
+
+#data{
+    overflow-y: scroll;
+    height: 500px;
+}
+
